@@ -2,6 +2,8 @@
 
 A login page using the new panel element in BootStrap 4.
 
+![Login Page Preview](https://github.com/themedesigner/panel-login/blob/master/screenshot.png)
+
 More details and information will be added soon.
 
 ## Bugs and Issues
